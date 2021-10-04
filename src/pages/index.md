@@ -35,10 +35,15 @@ sections:
     is_numbered: true
     grid_items:
       - title: Regular Maintenance Service
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Wear and tear in your vehicle is unavoidable, and parts would usually
+          have a finite life span before they eventually being retired from
+          operations. The good news is, your vehicle does take a lot of time
+          till it retires. Regular maintenance requires maintenance tasks to be
+          performed at set time intervals while your vehicle is operational.
+          Periodic maintenance services are planned ahead of time and are
+          performed regardless of whether signs of deterioration show up or not.
+          These are precautionary changes recommended by OEMs. 
       - title: Dent and Paint Services
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
