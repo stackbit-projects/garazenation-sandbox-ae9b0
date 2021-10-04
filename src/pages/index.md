@@ -18,7 +18,7 @@ sections:
     section_id: hero
   - section_id: latest-projects
     type: section_portfolio
-    layout_style: mosaic
+    layout_style: tiles
     title: Services
     subtitle: >-
       GarageNations has put together an entire package of repair and
