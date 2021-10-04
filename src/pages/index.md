@@ -6,24 +6,23 @@ sections:
     type: section_hero
     title: FREE ROAD TRIP CHECK
     content: >
-      ##### Get a complete car health check up before you go to build new
-      memories with your loved ones. 
-
-       
-
-      ### A/C check , Brake Check, 
+      #### Get a complete car health check up before you go to build new
+      memories with your loved ones.
 
 
-      ### Tire Check , 
+      ###### A/C check , Brake Check,
 
 
-      ### Suspension Check, 
+      ###### Tire Check ,
 
 
-      ### WindShield wiper Check, 
+      ###### Suspension Check,
 
 
-      ### Battery Check. 
+      ###### WindShield wiper Check,
+
+
+      ###### Battery Check.
     actions:
       - label: Book Appointment Now
         url: /contact
