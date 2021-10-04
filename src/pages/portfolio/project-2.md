@@ -32,5 +32,6 @@ seo:
       value: images/2.jpg
       relativeUrl: true
 template: project
+image: images/brake image.jpeg
 ---
 While there are many types of brake systems, serving the same function: to slow down or stop your car when you apply the brake pedal. With disc brakes, the brake pad squeezes the disc and creates friction which slows the disc down. Over time, brake pads wear  and need replacement. Waiting too long to replace brake pads damages the rotors and makes the tires wear unevenly, which is why it’s important to have your brakes checked regularly
