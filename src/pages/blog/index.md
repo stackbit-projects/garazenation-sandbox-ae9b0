@@ -1,9 +1,5 @@
 ---
 title: Free Road Trip Check up!
-subtitle: >-
-  Get a complete car health check up before you go to build new memories with
-  your loved ones. It includes A/C check , Brake Check, Tire Check , Suspension
-  Check, WindShield wiper Check, Battery Check. Book your Appointment Now.
 hide_title: false
 col_number: three
 seo:
