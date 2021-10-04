@@ -3,7 +3,6 @@ title: 'Oil Change '
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
 thumb_image_alt: 'White, black, and red shoe sole'
-image: images/1.jpg
 image_alt: 'White, black, and red shoe sole'
 seo:
   title: Project Title 1
