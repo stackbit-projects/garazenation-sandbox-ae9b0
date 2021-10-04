@@ -29,7 +29,7 @@ sections:
     view_all_url: portfolio
   - section_id: services
     type: section_grid
-    title: What We Do
+    title: Frequently used services
     col_number: two
     is_numbered: true
     grid_items:
