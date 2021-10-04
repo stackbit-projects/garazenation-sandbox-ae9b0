@@ -56,9 +56,12 @@ sections:
       - title: Running Repairs
         content: "These repairs are those which are except regular maintenance. Running repairs are the\_services required in the car, when a part is not working in right condition or may have worn out to the point that replacement or repairs are required to maintain the performance of your car.\n"
       - title: Insurance claims
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: >
+          Accidents are horrific in experience and we understand that same as
+          you. We are here to make Insurance claim process smooth and easy for
+          our customers. We just need the required documents from our customer,
+          rest is taken care by our qualified team. We want our customer to take
+          good rest while we make sure their car is as good as new. 
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
