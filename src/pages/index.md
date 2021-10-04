@@ -11,7 +11,7 @@ sections:
       Check , Suspension Check, WindShield wiper Check, Battery Check. Book your
       Appointment Now.
     actions:
-      - label: Let's talk
+      - label: Book Appointment Now
         url: /contact
         style: button
   - section_id: latest-projects
