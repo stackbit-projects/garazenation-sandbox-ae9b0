@@ -1,6 +1,8 @@
 ---
 title: Free Road Trip Check up!
-subtitle: 'News, tips and highlights'
+subtitle: >-
+  Get a complete car health check up before you go to build new memories with
+  your loved ones.
 hide_title: false
 col_number: three
 seo:
