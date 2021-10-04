@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Stackbit Exto Portfolio Theme.'
+    title: FREE ROAD TRIP CHECK
     content: >
       ##### Get a complete car health check up before you go to build new
       memories with your loved ones. It includes A/C check , Brake Check, Tire
