@@ -15,7 +15,7 @@ sections:
     actions:
       - label: Book Appointment Now
         url: /contact
-        style: icon
+        style: button
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
