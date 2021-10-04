@@ -30,7 +30,8 @@
                 "style": "link"
             }
         ],
-        "logo_img": "images/Light Document PNG.png"
+        "logo_img": "images/Light Document PNG.png",
+        "title": "GarageNations"
     },
     "footer": {
         "content": "Copyright ©2021  Automend Technology Pvt. Ltd. All Rights Reserved",
