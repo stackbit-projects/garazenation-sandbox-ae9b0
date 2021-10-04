@@ -5,9 +5,11 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Stackbit Exto Portfolio Theme.'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      # **Get a complete car health check up before you go to build new memories
+      with your loved ones. It includes A/C check , Brake Check, Tire Check ,
+      Suspension Check, WindShield wiper Check, Battery Check. Book your
+      Appointment Now.**
     actions:
       - label: Let's talk
         url: /contact
