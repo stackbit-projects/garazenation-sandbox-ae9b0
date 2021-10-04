@@ -22,8 +22,8 @@ sections:
     title: Services
     subtitle: >-
       GarageNations has put together an entire package of repair and
-      preventative maintenance services specializing in quick, timely repairs to
-      minimize down time.
+      preventative maintenance services specialising in quick, timely repairs to
+      minimise down time.
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
