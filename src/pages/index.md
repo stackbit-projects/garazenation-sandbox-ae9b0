@@ -45,10 +45,14 @@ sections:
           performed regardless of whether signs of deterioration show up or not.
           These are precautionary changes recommended by OEMs. 
       - title: Dent and Paint Services
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
+        content: >
+          Car is an important possession in our life. When an accident occurs,
+          our experts quickly set in motion a complete car body repair services
+          that only ends when we deliver a flawless vehicle back to you. It
+          start  with the estimate and then customer approves the job work ,  we
+          handle everything from dent removal to respraying, including wheel
+          alignment, windshield replacement, bumper repairs and air conditioning
+          systems. We even deal with rust and paint chip problems.
       - title: Running Repairs
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
