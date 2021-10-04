@@ -10,19 +10,19 @@ sections:
       memories with your loved ones.
 
 
-      ###### A/C check , Brake Check,
+      *   A/C check , Brake Check,
 
 
-      ###### Tire Check ,
+      *   Tire Check ,
 
 
-      ###### Suspension Check,
+      *   Suspension Check,
 
 
-      ###### WindShield wiper Check,
+      *   WindShield wiper Check,
 
 
-      ###### Battery Check.
+      *   Battery Check.
     actions:
       - label: Book Appointment Now
         url: /contact
