@@ -16,13 +16,6 @@ sections:
         url: /contact
         style: button
     section_id: hero
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
-    subtitle: lorem-ipsum
-    col_number: three
-    is_numbered: false
-    grid_items: []
-    type: section_grid
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
