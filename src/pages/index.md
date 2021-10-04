@@ -54,10 +54,7 @@ sections:
           alignment, windshield replacement, bumper repairs and air conditioning
           systems. We even deal with rust and paint chip problems.
       - title: Running Repairs
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
+        content: "These repairs are those which are except regular maintenance. Running repairs are the\_services required in the car, when a part is not working in right condition or may have worn out to the point that replacement or repairs are required to maintain the performance of your car.\n"
       - title: Insurance claims
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
