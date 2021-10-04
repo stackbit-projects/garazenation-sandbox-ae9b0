@@ -2,7 +2,7 @@
 title: Free Road Trip Check up!
 subtitle: >-
   Get a complete car health check up before you go to build new memories with
-  your loved ones.
+  your loved ones. It includes A/C check up,
 hide_title: false
 col_number: three
 seo:
