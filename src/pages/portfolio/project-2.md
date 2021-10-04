@@ -4,7 +4,7 @@ subtitle: Break maintenance is a crucial part to make your vehicle operate safet
 date: '2019-04-30'
 thumb_image: images/2_thumb.jpg
 thumb_image_alt: An orange on a blue background
-image: images/2.jpg
+image: images/clipart1849926.png
 image_alt: An orange on a blue background
 seo:
   title: Project Title 2
