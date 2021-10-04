@@ -2,8 +2,7 @@
 title: Home
 hide_title: true
 sections:
-  - section_id: hero
-    type: section_hero
+  - type: section_hero
     title: FREE ROAD TRIP CHECK
     content: >
       #### Vacations are to be enjoyed but little carelessness for your vehicle
