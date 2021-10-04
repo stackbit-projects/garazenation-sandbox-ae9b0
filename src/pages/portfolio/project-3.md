@@ -2,7 +2,7 @@
 title: Suspension and Steering
 subtitle: Optional Project Subtitle
 date: '2019-04-08'
-thumb_image: images/AUTOMOTIVE PARTS-01.svg
+thumb_image: images/My Post (32).jpg
 thumb_image_alt: A yellow retro telephone on a yellow background
 image: images/3.jpg
 image_alt: A yellow retro telephone on a yellow background
