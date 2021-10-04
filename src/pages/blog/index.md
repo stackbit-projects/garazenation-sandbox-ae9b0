@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Free Road Trip Check up!
 subtitle: 'News, tips and highlights'
 hide_title: false
 col_number: three
