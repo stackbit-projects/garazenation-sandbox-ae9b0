@@ -6,23 +6,12 @@ sections:
     type: section_hero
     title: FREE ROAD TRIP CHECK
     content: >
-      #### Make sure your trip is
-      ![](images/WhatsApp%20Image%202021-10-04%20at%206.06.14%20PM.jpeg) Free
+      #### Vacations are to be enjoyed but little carelessness for your vehicle
+      can make this experience Awesome to Bad. 
 
 
-      *   A/C check , Brake Check,
-
-
-      *   Tire Check ,
-
-
-      *   Suspension Check,
-
-
-      *   WindShield wiper Check,
-
-
-      *   Battery Check.
+      \-A/C check , Brake Check, Tire Check , Suspension Check,WindShield wiper
+      Check, Battery Check.
     actions:
       - label: Book Appointment Now
         url: /contact
