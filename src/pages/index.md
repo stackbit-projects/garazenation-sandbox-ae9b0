@@ -6,8 +6,8 @@ sections:
     type: section_hero
     title: FREE ROAD TRIP CHECK
     content: >
-      #### Get a complete car health check up before you go to build new
-      memories with your loved ones.
+      #### Make sure your trip is
+      ![](images/WhatsApp%20Image%202021-10-04%20at%206.06.14%20PM.jpeg) Free
 
 
       *   A/C check , Brake Check,
